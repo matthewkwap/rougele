@@ -1,0 +1,10 @@
+ <div id="nav-m">
+                        <div  className="nav">
+                   
+                 <Link to="/home" id="nav-i">Home</Link>
+                    <Link to={`/profile/${ont}`} id="nav-i">Profile</Link>
+                    <Link to="/bookmark" id="nav-i">bookmarks</Link>
+                    <Link to="/messages" id="nav-i">Messages</Link>
+                </div> 
+                </div>
+           
