@@ -98,7 +98,7 @@ async function mai() {
 const { Pool } = require("pg");
 const pool = new Pool({
 
-  connectionString: "postgres://mahfewzyixkdwp:5d7686e236af10a8ac72b4a3317af82082641a855f07145d255a00174dcb7080@ec2-52-86-25-51.compute-1.amazonaws.com:5432/df4es6piu5t5df",
+  connectionString: "postgres://nsqcfgkj:X3S6VPD0Wp-9T7EFkV_ln-lpf8L5ia9F@suleiman.db.elephantsql.com/nsqcfgkj",
   ssl: {
     rejectUnauthorized: false
   }
